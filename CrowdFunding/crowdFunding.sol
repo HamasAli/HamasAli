@@ -114,10 +114,3 @@ contract crowdFunding{
         return pa;
     }
 }
-
-/*
-            uint                                string                                                      uint
-            1                               ASD@gmail.com                                                  1
-                                                                                                           2
-            2                               asdfa@fma;sd                                                   1 
-*/
